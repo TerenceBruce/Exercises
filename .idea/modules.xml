@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Duplicates/Duplicates.iml" filepath="$PROJECT_DIR$/Arrays/Duplicates/Duplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra/LogInSignUpJava/Exercise 1/Exercise 1.iml" filepath="$PROJECT_DIR$/Extra/LogInSignUpJava/Exercise 1/Exercise 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra/Exercise 1/Exercise 11.iml" filepath="$PROJECT_DIR$/Extra/Exercise 1/Exercise 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercises.iml" filepath="$PROJECT_DIR$/.idea/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ExistInArray/ExistInArray.iml" filepath="$PROJECT_DIR$/Arrays/ExistInArray/ExistInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/Arrays/MaxAndMin/MaxAndMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/MinMaxMethods/MinMaxMethods.iml" filepath="$PROJECT_DIR$/Methods/MinMaxMethods/MinMaxMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/MyCalculator/MyCalculator.iml" filepath="$PROJECT_DIR$/Methods/MyCalculator/MyCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/MyPetShop/MyPetShop.iml" filepath="$PROJECT_DIR$/OOP/MyPetShop/MyPetShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra/LogInSignUpJava/Test/Test.iml" filepath="$PROJECT_DIR$/Extra/LogInSignUpJava/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/TestArray/TestArray.iml" filepath="$PROJECT_DIR$/Arrays/TestArray/TestArray.iml" />
+    </modules>
+  </component>
+</project>
